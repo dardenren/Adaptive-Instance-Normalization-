@@ -1,0 +1,19 @@
+venv/
+.venv/
+
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Other common exclusions
+.DS_Store  # macOS
+*.log
+*.env
+*.swp
+*.bak
+*.pt
